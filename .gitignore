@@ -1,0 +1,7 @@
+node_modules/
+dist/
+screenshot-*.png
+v2-*.png
+v3-*.png
+*.mjs
+!vite.config.js
